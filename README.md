@@ -27,7 +27,7 @@
 <br />
 <div align="center">
   <a href="https://github.com/BhargavGurav/Log_Ingestor_Dyte_Submission">
-    ![Logo](https://github.com/BhargavGurav/Log_Ingestor_Dyte_Submission/blob/main/LOG_29710.png)
+    ![Logo](LOG_29710.png)
   </a>
 
 <h3 align="center">Log Ingestor</h3>
